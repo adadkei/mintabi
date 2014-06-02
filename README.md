@@ -5,3 +5,6 @@ Enjoy Developing !
 ####1.目的
 * 旅を支援するプラットフォームの開発。
 * 「知的」におもしろい企画を実現する。
+####2.方向性
+* HTML5(PhoneGap)。
+* それともNativeJavaか。
