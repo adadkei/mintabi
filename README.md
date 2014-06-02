@@ -7,3 +7,6 @@ Enjoy Developing !
 * 「知的」におもしろい企画を実現する。
 * HTML5(PhoneGap)。
 * それともNativeJavaか。
+
+TODO
+* 開発環境！
